@@ -1,5 +1,5 @@
 import SingleProduct from "@/components/SingleProduct";
-import axios from "axios"
+import axios from "axios";
 import Link from "next/link";
 import { useEffect, useState } from "react"
 import { useDispatch } from "react-redux";
